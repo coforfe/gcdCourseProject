@@ -1,7 +1,4 @@
----
-output:
-  html_document: default
----
+
 ***
 
 Getting and Cleaning Data - Course Project 
